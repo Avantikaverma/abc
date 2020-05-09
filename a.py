@@ -4,6 +4,7 @@ print('kar li faltu bat')
 print('shi bat')
 #shweta-> utsav
 print("maine likh di")
-
+#commented anything else
+print("something very common")
 
 print('hy form utsav')
